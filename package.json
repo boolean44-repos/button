@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.19.3",
+    "path": "^0.12.7"
+  }
+}
